@@ -1,0 +1,28 @@
+.input-container-slot {
+  background-color: white;
+  margin-top: 2rem;
+  margin-left: 25%;
+  border-radius: 0.25rem;
+  padding: 1rem;
+  box-shadow: 0.1rem 0.1rem 1rem rgba(0, 0, 0, 0.329);
+  /* display: flex; */
+  width: 50%;
+  justify-content: space-between;
+}
+
+.add-btn-slot {
+  border: none;
+  padding: 0.3rem 2rem;
+  border-radius: 0.2rem;
+  background-color: rgb(53, 201, 157);
+  color: white;
+  font-weight: 900;
+}
+
+.booked-appoitment-btn {
+  background-color: red;
+}
+
+.booked-appoitment-card {
+  background-color: rgba(255, 0, 0, 0.336);
+}
