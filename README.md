@@ -1,9 +1,5 @@
 # digital-tron-scheduler
 
-Running the Application
-npm install
-npm start
-
 
 Following were the requirements for the application 
 
@@ -18,5 +14,9 @@ Following were the requirements for the application
 5. Showcase the use of Redux or other state management libraries.
 
 
+# Running the Application
 
+npm install
+
+npm start
 
